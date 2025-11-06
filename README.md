@@ -55,24 +55,44 @@ https://www.nrel.gov/buildings/end-use-load-profiles
 
 ### 🚀 Como utilizar
 
-1. Instalar dependências
-  - pip install -r requirements.txt
-2. Executar o script
-  - python src/data_collection.py
+📄 Para instruções completas de utilização, consulte:
 
-
+👉 `USAGE.md`
 
 ---
 
 ### 🧾 Citação (copiável)
 
-Se utilizar os dados ou este repositório, cite conforme recomendado pelo NREL:
+#### Citar o dataset NREL:
 
+```
 Wilson et al. 2021. End-Use Load Profiles for the U.S. Building Stock: Methodology and Results of Model Calibration, Validation, and Uncertainty Quantification. NREL/TP-5500-80889. https://www.nrel.gov/docs/fy22osti/80889.pdf
+```
 
-Para o dataset comercial (ComStock):
+Dataset comercial / ComStock:
 
+```
 Parker, Andrew, et al. 2023. ComStock Reference Documentation. Golden, CO: National Renewable Energy Laboratory. NREL/TP-5500-83819. https://www.nrel.gov/docs/fy23osti/83819.pdf
+```
+
+#### Citar este repositório:
+
+```
+Mendes, Nuno A.G. (2025). Buildings Energy Data — End-Use Load Profiles for the U.S. Building Stock.
+Repositório GitHub. Disponível em: https://github.com/USERNAME/REPOSITORY
+```
+
+BibTeX:
+
+```bibtex
+@software{mendes_energy_data_2025,
+  author       = {Nuno A. G. Mendes},
+  title        = {Buildings Energy Data — End-Use Load Profiles for the U.S. Building Stock},
+  year         = {2025},
+  publisher    = {GitHub},
+  url          = {https://github.com/USERNAME/REPOSITORY},
+}
+```
 
 ---
 
@@ -85,12 +105,6 @@ https://www.nrel.gov/buildings/end-use-load-profiles
 
 Este repositório **apenas disponibiliza o código** utilizado na recolha e preparação dos dados.  
 Os dados originais **não são redistribuídos**.
-
----
-
-### ✉️ Contacto
-
-Para dúvidas ou sugestões, abre um *Issue* neste repositório.
 
 ---
 
@@ -140,45 +154,61 @@ https://www.nrel.gov/buildings/end-use-load-profiles
 └── requirements.txt
 ```
 
+
 ---
 
 ### 🚀 How to use
 
-1. Install dependencies
-  - pip install -r requirements.txt
-2. Run the script
-  - python src/data_collection.py
+📄 For full usage instructions, please check:
 
+👉 `USAGE.md`
 
 ---
 
 ### 🧾 Citation (copy-friendly)
 
-Wilson et al. 2021. *End-Use Load Profiles for the U.S. Building Stock: Methodology and Results of Model Calibration, Validation, and Uncertainty Quantification.*  
+#### Cite the NREL dataset:
+
+```
+Wilson et al. 2021. End-Use Load Profiles for the U.S. Building Stock: Methodology and Results of Model Calibration, Validation, and Uncertainty Quantification.
 NREL/TP-5500-80889. https://www.nrel.gov/docs/fy22osti/80889.pdf
+```
 
-ComStock reference:
+ComStock dataset reference:
 
-Parker, Andrew, et al. 2023. *ComStock Reference Documentation.*  
+```
+Parker, Andrew, et al. 2023. ComStock Reference Documentation.
 NREL/TP-5500-83819. https://www.nrel.gov/docs/fy23osti/83819.pdf
+```
+
+#### Cite this repository:
+
+```
+Mendes, Nuno A.G. (2025). Buildings Energy Data — End-Use Load Profiles for the U.S. Building Stock.
+GitHub repository. Available at: https://github.com/USERNAME/REPOSITORY
+```
+
+BibTeX:
+
+```bibtex
+@software{mendes_energy_data_2025,
+  author       = {Nuno A. G. Mendes},
+  title        = {Buildings Energy Data — End-Use Load Profiles for the U.S. Building Stock},
+  year         = {2025},
+  publisher    = {GitHub},
+  url          = {https://github.com/USERNAME/REPOSITORY},
+}
+```
 
 ---
 
 ### 📄 License (copy-friendly)
 
 The dataset belongs to **National Renewable Energy Laboratory (NREL)**.  
-Use of the dataset must follow the terms stated on:
+Dataset usage must follow the terms stated at:
 
 https://www.nrel.gov/buildings/end-use-load-profiles
 
-This repository **only provides the downloadable and processing code** —  
-the dataset itself is **not redistributed**.
-
----
-
-### ✉️ Contact
-
-For questions or improvements, open an Issue in this repository.
-
----
+This repository **only provides the download and processing code** —  
+the dataset is **not redistributed**.
 
