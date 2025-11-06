@@ -79,7 +79,7 @@ Parker, Andrew, et al. 2023. ComStock Reference Documentation. Golden, CO: Natio
 
 ```
 Mendes, Nuno A.G. (2025). Buildings Energy Data — End-Use Load Profiles for the U.S. Building Stock.
-Repositório GitHub. Disponível em: https://github.com/USERNAME/REPOSITORY
+Repositório GitHub. Disponível em: https://github.com/NunoAGM/buildings-energy-data
 ```
 
 BibTeX:
@@ -90,7 +90,7 @@ BibTeX:
   title        = {Buildings Energy Data — End-Use Load Profiles for the U.S. Building Stock},
   year         = {2025},
   publisher    = {GitHub},
-  url          = {https://github.com/USERNAME/REPOSITORY},
+  url          = {https://github.com/NunoAGM/buildings-energy-data},
 }
 ```
 
@@ -185,7 +185,7 @@ NREL/TP-5500-83819. https://www.nrel.gov/docs/fy23osti/83819.pdf
 
 ```
 Mendes, Nuno A.G. (2025). Buildings Energy Data — End-Use Load Profiles for the U.S. Building Stock.
-GitHub repository. Available at: https://github.com/USERNAME/REPOSITORY
+GitHub repository. Available at: https://github.com/NunoAGM/buildings-energy-data
 ```
 
 BibTeX:
@@ -196,7 +196,7 @@ BibTeX:
   title        = {Buildings Energy Data — End-Use Load Profiles for the U.S. Building Stock},
   year         = {2025},
   publisher    = {GitHub},
-  url          = {https://github.com/USERNAME/REPOSITORY},
+  url          = {https://github.com/NunoAGM/buildings-energy-data},
 }
 ```
 
