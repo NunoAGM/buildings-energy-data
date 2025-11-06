@@ -1,3 +1,4 @@
+**🌐 PT**
 # Como usar
 Este repositório permite trabalhar com dados do projeto **End-Use Load Profiles for the U.S. Building Stock (NREL)** de forma modular.
 O processo está dividido em três passos independentes:
@@ -26,7 +27,7 @@ Será gerado o ficheiro `data_infos.xlsx`.
 
 ---
 
-
+**🌐 EN**
 # How to use
 
 This repository enables working with the **End-Use Load Profiles for the U.S. Building Stock (NREL)** dataset in a modular workflow.  
